@@ -1,0 +1,12 @@
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\DgitalLib.dll
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\DgitalLib.pdb
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\DgitalLib.xml
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\WindowsApplication1.exe
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\WindowsApplication1.pdb
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\bin\Debug\WindowsApplication1.xml
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.vbprojResolveAssemblyReference.cache
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.Resources.resources
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.vbproj.GenerateResource.Cache
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.dll
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.xml
+C:\Users\t510\documents\visual studio 2015\Projects\DgitalLib\DgitalLib\obj\Debug\DgitalLib.pdb
